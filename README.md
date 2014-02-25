@@ -6,3 +6,5 @@ Java programes for exercises of CLRS, including
 - Chapter 4
 - Chapter 5
 - Chapter 6
+
+Accomplished in Eclipse Indigo(1.9.2).
